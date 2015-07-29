@@ -31,7 +31,7 @@ When you need to read the values back, pass the number to either `.unpack` which
 ## Install
 
 ```bash
-npm install tiny-binary-format
+npm install tiny-binary-format --save
 ```
 
 ## Gotchas
